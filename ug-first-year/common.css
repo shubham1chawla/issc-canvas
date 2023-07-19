@@ -40,6 +40,12 @@
     object-fit: cover;
 }
 
+.card.card-disabled {
+    background-color: #eee;
+    cursor: not-allowed;
+    filter: saturate(0%);
+}
+
 /* ASU-specific CSS */
 
 .asu-btn-maroon {
