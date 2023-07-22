@@ -49,6 +49,10 @@
 
 /* ASU-specific CSS */
 
+a.asu-link {
+    color: var(--asu-maroon-color-hex) !important;
+}
+
 .asu-btn-maroon {
     color: #fff;
     background-color: var(--asu-maroon-color-hex);
