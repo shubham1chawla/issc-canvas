@@ -41,6 +41,10 @@
     max-height: 12rem;
 }
 
+.yt-iframe {
+    aspect-ratio: 16/9;
+}
+
 /* ASU-specific CSS */
 
 a.asu-link {
