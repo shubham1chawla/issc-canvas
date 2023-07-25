@@ -41,12 +41,6 @@
     max-height: 12rem;
 }
 
-.card.card-disabled {
-    background-color: #eee;
-    cursor: not-allowed;
-    filter: saturate(0%);
-}
-
 /* ASU-specific CSS */
 
 a.asu-link {
